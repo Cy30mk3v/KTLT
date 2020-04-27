@@ -1,0 +1,4 @@
+
+
+
+float Fraction(int n);
